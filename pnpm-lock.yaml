@@ -5,3 +5,8 @@ settings:
   excludeLinksFromLockfile: false
 
 importers:
+
+  .:
+    devDependencies:
+      eslint:
+        specifier: ^8.16.0
