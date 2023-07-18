@@ -12,3 +12,4 @@ importers:
         specifier: ^8.16.0
  version: 8.34.0
       eslint-config-custom:
+   specifier: workspace:*
