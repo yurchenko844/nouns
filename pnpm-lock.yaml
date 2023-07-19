@@ -13,3 +13,5 @@ importers:
  version: 8.34.0
       eslint-config-custom:
    specifier: workspace:*
+ version: link:packages/eslint-config-custom
+      husky:
