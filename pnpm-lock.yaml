@@ -26,3 +26,4 @@ version: 1.10.3
 
   apps/subgraph:
     dependencies:
+  '@graphprotocol/graph-cli':
