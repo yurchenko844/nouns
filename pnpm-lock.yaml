@@ -35,5 +35,7 @@ version: 1.10.3
     devDependencies:
   matchstick-as:
         specifier: 0.5.0
+ version: 0.5.0
 
+  apps/web:
         
