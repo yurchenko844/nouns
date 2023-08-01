@@ -41,3 +41,4 @@ version: 1.10.3
         
  dependencies:
       '@ethersproject/abstract-provider':
+ specifier: ^5.7.0
