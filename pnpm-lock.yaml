@@ -60,3 +60,4 @@ version: 4.5.10
         version: 0.12.15(@types/react@18.0.28)(ethers@5.7.2)(react-dom@18.2.0)(react@18.2.0)(wagmi@0.12.17)
  '@sentry/nextjs':
         specifier: ^7.15.0
+  version: 7.37.1(next@13.1.6)(react@18.2.0)(webpack@5.75.0)
