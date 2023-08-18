@@ -67,3 +67,5 @@ version: 4.14.191
       '@types/react-portal':
    specifier: ^4.0.4
         version: 4.0.4
+ '@types/tinycolor2':
+        specifier: ^1.4.3
