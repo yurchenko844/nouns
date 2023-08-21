@@ -69,3 +69,5 @@ version: 4.14.191
         version: 4.0.4
  '@types/tinycolor2':
         specifier: ^1.4.3
+ version: 1.4.3
+      '@vanilla-extract/next-plugin':
