@@ -73,3 +73,5 @@ version: 4.14.191
       '@vanilla-extract/next-plugin':
  specifier: ^2.0.2
         version: 2.1.1(next@13.1.6)(webpack@5.75.0)
+ '@vanilla-extract/recipes':
+        specifier: ^0.2.5
