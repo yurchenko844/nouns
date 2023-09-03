@@ -86,3 +86,4 @@ version: 4.14.191
         specifier: 1.2.0
  version: 1.2.0
       '@zoralabs/zord':
+ specifier: workspace:*
