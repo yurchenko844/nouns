@@ -93,3 +93,5 @@ version: link:../../packages/zoralabs-zord
         version: link:../../packages/analytics
   axios:
         specifier: ^0.27.2
+version: 0.27.2
+      bignumber.js:
