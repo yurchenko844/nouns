@@ -95,3 +95,5 @@ version: link:../../packages/zoralabs-zord
         specifier: ^0.27.2
 version: 0.27.2
       bignumber.js:
+  specifier: ^9.1.0
+        version: 9.1.1
