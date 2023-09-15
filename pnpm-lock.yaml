@@ -97,3 +97,6 @@ version: 0.27.2
       bignumber.js:
   specifier: ^9.1.0
         version: 9.1.1
+  blocklist:
+        specifier: workspace:*
+        version: link:../../packages/blocklist
