@@ -100,3 +100,6 @@ version: 0.27.2
   blocklist:
         specifier: workspace:*
         version: link:../../packages/blocklist
+  dayjs:
+        specifier: ^1.11.3
+        version: 1.11.7
