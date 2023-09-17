@@ -103,3 +103,6 @@ version: 0.27.2
   dayjs:
         specifier: ^1.11.3
         version: 1.11.7
+ ethers:
+        specifier: ^5.6.9
+        version: 5.7.2
