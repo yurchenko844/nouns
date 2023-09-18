@@ -106,3 +106,5 @@ version: 0.27.2
  ethers:
         specifier: ^5.6.9
         version: 5.7.2
+ '@farcaster/hub-nodejs':
+        specifier: ^0.8.0
