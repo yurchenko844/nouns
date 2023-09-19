@@ -108,3 +108,5 @@ version: 0.27.2
         version: 5.7.2
  '@farcaster/hub-nodejs':
         specifier: ^0.8.0
+  version: 0.8.0(typescript@4.9.5)
+      '@fontsource/inter':
