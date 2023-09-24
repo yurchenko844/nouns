@@ -116,3 +116,5 @@ version: 0.27.2
         specifier: ^4.5.9
 version: 4.5.11
       '@rainbow-me/rainbowkit':
+ specifier: ^0.12.15
+        version: 0.12.15(@types/react@18.0.28)(ethers@5.7.2)(react-dom@18.2.0)(react@18.2.0)(wagmi@0.12.17)
