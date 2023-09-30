@@ -126,3 +126,6 @@ version: 4.5.11
 nouns-builder/pnpm-lock.yaml at main · ourzora/nouns-builder
 specifier: ^3.0.9
         version: 3.0.9(react@18.2.0)
+ ioredis:
+        specifier: ^5.2.3
+        version: 5.3.1
