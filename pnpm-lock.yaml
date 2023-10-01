@@ -129,3 +129,5 @@ specifier: ^3.0.9
  ioredis:
         specifier: ^5.2.3
         version: 5.3.1
+ipfs-http-client:
+        specifier: ^59.0.0
