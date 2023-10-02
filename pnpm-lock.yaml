@@ -131,3 +131,7 @@ specifier: ^3.0.9
         version: 5.3.1
 ipfs-http-client:
         specifier: ^59.0.0
+  version: 59.0.0
+      ipfs-service:
+        specifier: workspace:*
+        version: link:../../packages/ipfs-service
