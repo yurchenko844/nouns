@@ -151,3 +151,5 @@ version: 13.1.6(@babel/core@7.20.12)(react-dom@18.2.0)(react@18.2.0)
         specifier: ^18.2.0
  version: 18.2.0
       react-content-loader:
+  specifier: ^6.0.2
+        version: 6.2.0(react@18.2.0)
