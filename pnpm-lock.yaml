@@ -158,3 +158,6 @@ version: 13.1.6(@babel/core@7.20.12)(react-dom@18.2.0)(react@18.2.0)
         version: 18.2.0(react@18.2.0)
  react-markdown:
         specifier: ^8.0.5
+ version: 8.0.5(@types/react@18.0.28)(react@18.2.0)
+      react-mde:
+        specifier: ^11.5.0
