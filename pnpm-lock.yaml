@@ -172,3 +172,5 @@ version: 13.1.6(@babel/core@7.20.12)(react-dom@18.2.0)(react@18.2.0)
  specifier: ^5.0.1
  version: 5.0.1
       remark-gfm:
+ specifier: ^3.0.1
+        version: 3.0.1
