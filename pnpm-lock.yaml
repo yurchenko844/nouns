@@ -189,3 +189,7 @@ version: 13.1.6(@babel/core@7.20.12)(react-dom@18.2.0)(react@18.2.0)
       zustand:
         specifier: ^4.3.3
    version: 4.3.3(react@18.2.0)
+ devDependencies:
+      '@graphql-codegen/cli':
+        specifier: ^2.12.0
+        version: 2.16.5(@babel/core@7.20.12)(@types/node@18.13.0)(graphql@16.6.0)(typescript@4.9.5)
