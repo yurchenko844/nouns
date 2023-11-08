@@ -208,3 +208,5 @@ version: 2.5.13(graphql@16.6.0)
       '@svgr/webpack':
      specifier: ^6.5.0
         version: 6.5.1
+graphql:
+        specifier: ^16.6.0
