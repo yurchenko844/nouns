@@ -214,3 +214,5 @@ graphql:
       graphql-request:
         specifier: ^4.3.0
  version: 4.3.0(graphql@16.6.0)
+ graphql-tag:
+        specifier: ^2.12.6
