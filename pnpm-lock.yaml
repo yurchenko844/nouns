@@ -220,3 +220,5 @@ graphql:
   html-react-parser:
         specifier: ^3.0.9
         version: 3.0.9(react@18.2.0)
+ ioredis:
+        specifier: ^5.2.3
