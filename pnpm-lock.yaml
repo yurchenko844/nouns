@@ -224,3 +224,5 @@ graphql:
         specifier: ^5.2.3
   version: 5.3.1
       ipfs-http-client:
+   specifier: ^59.0.0
+        version: 59.0.0
