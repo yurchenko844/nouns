@@ -226,3 +226,5 @@ graphql:
       ipfs-http-client:
    specifier: ^59.0.0
         version: 59.0.0
+  ipfs-service:
+        specifier: workspace:*
