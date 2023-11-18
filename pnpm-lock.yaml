@@ -228,3 +228,6 @@ graphql:
         version: 59.0.0
   ipfs-service:
         specifier: workspace:*
+ version: link:../../packages/ipfs-service
+      lodash:
+        specifier: ^4.17.21
