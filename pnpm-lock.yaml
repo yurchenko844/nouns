@@ -231,3 +231,5 @@ graphql:
  version: link:../../packages/ipfs-service
       lodash:
         specifier: ^4.17.21
+  version: 4.17.21
+      multiformats:
