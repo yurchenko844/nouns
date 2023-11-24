@@ -240,3 +240,6 @@ next:
         version: 13.1.6(@babel/core@7.20.12)(react-dom@18.2.0)(react@18.2.0)
   nextjs-progressbar:
         specifier: ^0.0.16
+  version: 0.0.16(next@13.1.6)(react@18.2.0)
+      raw-loader:
+        specifier: ^4.0.2
