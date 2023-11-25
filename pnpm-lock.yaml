@@ -243,3 +243,4 @@ next:
   version: 0.0.16(next@13.1.6)(react@18.2.0)
       raw-loader:
         specifier: ^4.0.2
+ version: 4.0.2(webpack@5.75.0)
