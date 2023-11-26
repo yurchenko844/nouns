@@ -244,3 +244,5 @@ next:
       raw-loader:
         specifier: ^4.0.2
  version: 4.0.2(webpack@5.75.0)
+ react:
+        specifier: ^18.2.0
