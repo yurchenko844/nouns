@@ -252,3 +252,5 @@ next:
         version: 18.2.0(react@18.2.0)
  react-markdown:
         specifier: ^8.0.5
+ version: 8.0.5(@types/react@18.0.28)(react@18.2.0)
+      react-mde:
