@@ -254,3 +254,5 @@ next:
         specifier: ^8.0.5
  version: 8.0.5(@types/react@18.0.28)(react@18.2.0)
       react-mde:
+  specifier: ^11.5.0
+        version: 11.5.0(react-dom@18.2.0)(react@18.2.0)
