@@ -265,3 +265,8 @@ react-portal:
       rehype-sanitize:
      specifier: ^5.0.1
         version: 5.0.1
+  remark-gfm:
+        specifier: ^3.0.1
+        version: 3.0.1
+      swr:
+        specifier: ^1.3.0
